@@ -1,0 +1,12 @@
+{
+    "nueva_partida": false,
+    "nom": "Manel",
+    "lvl": 1,
+    "exp": 0,
+    "event_anell": true,
+    "event_pla\u00e7a": true,
+    "event_castell": false,
+    "derrota_rei": false,
+    "missatge": false,
+    "events_ciutat": false
+}

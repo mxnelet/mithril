@@ -1,0 +1,19 @@
+{
+    "inventari_buit": false,
+    "anell": [
+        1,
+        "Equipable"
+    ],
+    "escata": [
+        1,
+        "Equipat"
+    ],
+    "escut": [
+        1,
+        "Equipat"
+    ],
+    "arc": [
+        1,
+        "Equipable"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "goblin": {
+        "vida": 30,
+        "atac": 10, 
+        "armadura": 0, 
+        "precisió": 75, 
+        "experiència": 20
+    },
+    "esquelet": {
+        "vida": 20,
+        "atac": 25, 
+        "armadura": 0, 
+        "precisió": 50, 
+        "experiència": 20
+    },
+    "troll": {
+        "vida": 50,
+        "atac": 30, 
+        "armadura": 0, 
+        "precisió": 50, 
+        "experiència": 35
+    },
+    "fangus mutant": {
+        "vida": 60,
+        "atac": 10,
+        "armadura": 15,
+        "precisió": 70,
+        "experiència": 30
+    },
+    "llop": {
+        "vida": 30,
+        "atac": 35,
+        "armadura": 0,
+        "precisió": 60,
+        "experiència": 45
+    },
+    "drac jove":    {
+        "vida": 85,
+        "atac": 45,
+        "armadura": 5,
+        "precisió": 35,
+        "experiència": 70
+    },
+    "Rei de la Muntanya": {
+        "vida": 200,
+        "atac": 75,
+        "armadura": 20,
+        "precisió": 90,
+        "experiència": 0
+    },
+    "Glaurung": {
+        "vida": 250,
+        "atac": 75,
+        "armadura": 10,
+        "precisió": 90,
+        "experiència": 0
+    }
+}

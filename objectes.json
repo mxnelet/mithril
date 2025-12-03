@@ -1,0 +1,17 @@
+{
+    "res": ["noEquipable","Monedes","res",0,50,1],
+    "pechera": ["Equipable","Armadura","armadura",10,3,1],
+    "espassa": ["Equipable","Arma","atac",15,3,1],
+    "pocio": ["noEquipable","Consumible","vida", 2,22,1],
+    "bolet": ["noEquipable","Consumible","atac", 1,22,1],
+    "anell": ["Equipable","Accesori","atac",1,0,1],
+    "capa": ["Equipable","Accesori","agilitat",10,0,1],
+    "sopa": ["noEquipable","Consumible","armadura",2,0,1],
+    "pocio gran": ["noEquipable","Consumible","vida", 3,22,2],
+    "bolet gran": ["noEquipable","Consumible","atac", 2,22,2],
+    "escut": ["Equipable","Armadura","armadura",15,3,2],
+    "destral": ["Equipable","Arma","atac",20,3,2],
+    "escata": ["Equipable","Accesori","atac",10,0,2],
+    "arc": ["Equipable","Arma","atac",15,0,2],
+    "puñal": ["Equipable","Arma","atac",10,0,2]
+}
